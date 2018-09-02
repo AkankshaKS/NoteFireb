@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986204340519",
+    "firebase_url": "https://notefireb.firebaseio.com",
+    "project_id": "notefireb",
+    "storage_bucket": "notefireb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986204340519:android:b67934c02a8ce43c",
+        "android_client_info": {
+          "package_name": "com.example.shiz.notefireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986204340519-kdknp60l57c9763ba62mneipsmt2mcua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiz.notefireb",
+            "certificate_hash": "6b9c9c02096abf58958d4e3205782eacf1c54079"
+          }
+        },
+        {
+          "client_id": "986204340519-md7p5jd4bdgtnhokp6gi00c0qg2h8ul4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYwPHLmtltLCLydQ-lZO4TRuPLy--jv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986204340519-md7p5jd4bdgtnhokp6gi00c0qg2h8ul4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
